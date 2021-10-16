@@ -5,7 +5,7 @@
 * O mapa e personagem foi disponibilizado pelo curso que participei.
 
 ## Projeto
-* Apena uma prova de conceito em que busco exercitar e comprovar meus conhecimentos em React.js;
+* Apenas uma prova de conceito em que busco exercitar e comprovar meus conhecimentos em React.js;
 * Busquei aplicar conhecimentos como hooks, components, types, handles e estilização.
 
 ## Imagem do projeto:
